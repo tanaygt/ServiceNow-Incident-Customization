@@ -19,4 +19,4 @@ I added a **custom field (sFone Model)**, made it mandatory, and tested it by cr
 
 ## Screenshots
 ![Incident Form](screenshot_form.png)
-![Incident List](screenshot_list.png)
+![Incident List](Screenshot 2025-09-08 110714.png)
