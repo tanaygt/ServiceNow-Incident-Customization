@@ -18,5 +18,5 @@ I added a **custom field (sFone Model)**, made it mandatory, and tested it by cr
 - Basic end-to-end Incident management workflow.
 
 ## Screenshots
-![Incident Form](screenshot_form.png)
-![Incident List](Screenshot 2025-09-08 110714.png)
+![Incident Form](https://github.com/tanaygt/ServiceNow-Incident-Customization/blob/main/Screenshot%202025-09-07%20223238.png)
+![Incident List](https://github.com/tanaygt/ServiceNow-Incident-Customization/blob/main/Screenshot%202025-09-08%20110714.png)
